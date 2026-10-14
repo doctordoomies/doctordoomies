@@ -19,10 +19,6 @@ My work spans cybersecurity, game development, and the web.
 A native macOS security workbench that brings reconnaissance tools, findings, and evidence into one local workspace.  
 <sub>SwiftUI · Rust · Cybersecurity</sub>
 
-**SectorLoom** · <sub>In development — private repository</sub>  
-A local AI workspace for connecting models, tools, and tasks.  
-<sub>Local AI · Workflow tools</sub>
-
 **[SECTOR-7 Portfolio](https://doctordoomies.github.io)**  
 My programming journey, projects, and experiments on the web.  
 <sub>HTML · CSS · JavaScript</sub>
